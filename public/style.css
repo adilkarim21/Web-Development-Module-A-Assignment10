@@ -1,0 +1,132 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(138, 43, 226);    
+}
+
+.logindiv{
+
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 1px solid blueviolet;
+    width: 70%;
+    height: 500px;
+
+    /* background-image: url(./Images/60df88cf-a7fc-4931-8626-1eb05e9dfc29.jpg);
+    background-size: 500px;
+    background-position: right; */
+
+    background: linear-gradient(
+        to left,    
+        rgba(138, 43, 226, 0.5) 50%,
+        rgb(255, 255, 255, 1)50%
+    ),
+    url(./Images/Untitled\ design.png);
+
+    background-size: 950px;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+
+.div1{
+    margin-top: 60px;
+    margin-left: 30px;
+    border: 1px white;
+    width: 20%;
+    font-size: 25px;
+}
+
+span{
+    text-decoration: underline blueviolet;
+}
+
+.div2{
+    margin-top: 40px;
+    margin-left: 30px;
+    border: 1px solid white;
+    width: 45%;
+}
+
+.div2input1{
+    width: 400px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: lightgrey;
+    font-size: 15px;
+}
+
+.div2input2{
+    width: 400px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: lightgrey;
+    font-size: 15px;
+}
+
+.fa-solid{
+    position: absolute;
+    padding: 12px;
+}
+
+.div2small{
+    color: blueviolet;
+    font-size: 14px;
+}
+
+.div3{
+    margin-left: 30px;
+    margin-top: 45px;
+    border: 1px solid white;
+    width: 45%;
+}
+
+.div3button{
+    color: white;
+    background-color: blueviolet;
+    width: 410px;
+    height: 55px;
+    font-size: 18px;
+    border-radius: 7px;
+    border-color: blueviolet;
+}
+
+.div4{
+    margin-top: 35px;
+    margin-left: 110px;
+    border: 1px solid white;
+    width: 25%;
+}   
+
+.div4small{
+    font-size: 14px;
+}
+
+.div4a{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.div5{
+    /* border: 1px solid black; */
+    width: 36%;
+    position: relative;
+    left: 530px;
+    top: -230px;
+}
+
+.div5h1{
+    color: white;
+    text-align: center;    
+}
+
+.div5h2{
+    color: white;
+    text-align: center;
+}

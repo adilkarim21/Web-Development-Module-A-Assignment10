@@ -1,0 +1,101 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(138, 43, 226);    
+}
+
+.signupdiv{
+
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 1px solid blueviolet;
+    width: 70%;
+    height: 500px;
+
+    /* background-image: url(./Images/60df88cf-a7fc-4931-8626-1eb05e9dfc29.jpg);
+    background-size: 500px;
+    background-position: right; */
+
+    background: linear-gradient(
+        to left,    
+        rgba(138, 43, 226, 0.5) 60%,
+        rgb(255, 255, 255, 1)40%
+    ),
+    url(./Images/Untitled\ design.png);
+
+    background-size: 950px;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+
+.div1{
+    margin-top: 15px;
+    border: 1px solid white;
+    width: 39.5%;
+}
+
+.div1h{
+    text-align: center;
+}
+
+.div2{
+    margin-top: 7px;
+    margin-left: 30px;
+    border: 1px solid white;
+    width: 35%;
+}
+
+.div2input1{
+    width: 306px;
+    height: 30px;
+}
+
+.div2input2{
+    width: 306px;
+    height: 30px;
+}
+
+.div2input3{
+    width: 306px;
+    height: 30px;
+}
+
+.div2input4{
+    width: 306px;
+    height: 30px;
+}
+.div3{
+    width: 35%;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 1px solid white;
+}
+
+.div3button{
+    width: 315px;
+    height: 35px;
+    color: white;
+    background-color: rgb(72, 72, 255);
+    border-radius: 5px;
+    border-color: rgb(72, 72, 255);
+}
+
+.div4{
+    width: 36%;
+    position: relative;
+    left: 485px;
+    top: -270px;
+}
+
+.div4h1{
+    color: white;
+    text-align: center;  
+}
+
+.div4h2{
+    color: white;
+    text-align: center;  
+}
